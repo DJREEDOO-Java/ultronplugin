@@ -1,0 +1,29 @@
+config:
+  joinnachricht:
+    msg: '%luckperms_prefix% &7| &2%player_name% &6ist Server beigetreten'
+  quitnachricht:
+    msg: '%luckperms_prefix% &7| &2%player_name% &6hat den Server verlassen'
+  willkommennachricht:
+    msg: '&6Willkommen auf &bUltron.de'
+  msg:
+    msgprefix: '&7[&5Msg&7]'
+  chat:
+    msgcolor: '&2'
+  scoreboard:
+    servername: '&7&l>&5&l Ultron.de &7&l<'
+  discord:
+    prefix: '&7[&5Discord&7]'
+    link: '&6dein link'
+  event:
+    msg1: '&bAktuelles Event'
+    msg2: '&5DiamantEvent: &6Sammle soviele Diamanten wie nur möglich'
+    msg3: '&5Zeit: &630minuten'
+    msg4: 'soon'
+    msg5: 'soon'
+  gm:
+    gm0msg: '&6Du bist nun im &5Gamemode Survival'
+    gm1msg: '&6Du bist nun im &5Gamemode Creative'
+    gm2msg: '&6Du bist nun im &5Gamemode Spectator'
+    gm3msg: '&6Du bist nun im &5Gamemode Adventure'
+  motd:
+    motd: '&b&lUltron.de 1.16.1'

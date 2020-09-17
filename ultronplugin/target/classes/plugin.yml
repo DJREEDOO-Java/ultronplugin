@@ -1,0 +1,52 @@
+name: ultronplugin
+version: 1.0-release
+main: de.djreedoo.ultron.main.main
+api-version: 1.16
+authors: [ DJREEDOO ]
+description: plugin für den ultron server
+website: /
+softdepend: [ PlaceholderAPI ]
+
+commands:
+  msg:
+    aliases: [ msg, message ]
+  reply:
+    aliases: [ reply, r ]
+  tpa:
+    aliases: [ tpa ]
+  tpaccept:
+    aliases: [ tpac, tpaccept ]
+  ultron:
+    aliases: [ reload, rl ]
+  rucksack:
+    aliases: [ backpack, rucksack ]
+  sbtoggle:
+    aliases: [ sbt, sbtoggle ]
+  discord:
+    aliases: [ discord, dc ]
+  event:
+    aliases: [ event, ev ]
+  heal:
+    aliases: [ heal, heilen ]
+  werkbank:
+    aliases: [ wb, werkbank ]
+  fly:
+    aliases: [ fly ]
+  emails:
+    aliases: [ emails ]
+  emailsend:
+    aliases: [ emailsend ]
+  gm:
+    description: Das ist nur hier damit des hier net so leer ist
+  zentrale:
+    aliases: [ help ]
+  setspawn:
+    aliases: [ setspawn ]
+  spawn:
+    aliases: [ spawn ]
+  bug:
+    aliases: [ bug ]
+  bugs:
+    aliases: [ bugs ]
+  tp:
+    aliases: [ tp ]
